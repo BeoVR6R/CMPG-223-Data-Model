@@ -7,3 +7,4 @@ Physical Data Model
 3. Go to FILE 
 4. Open from > GitHub
 5. Select the ```CMPG-223-Data-Model``` repository
+6. Save within the ```draw.io``` website
